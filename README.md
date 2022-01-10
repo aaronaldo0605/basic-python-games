@@ -1,1 +1,1 @@
-# social_distancing_detector
+# Basic Python Games
